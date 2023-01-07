@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".Book_detailsActivity3"
+    >
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:layout_marginTop="1dp"
+        android:baselineAligned="false"
+        android:gravity="center_vertical"
+        android:orientation="horizontal"
+        android:paddingBottom="5dp"
+        android:paddingTop="5dp"
+        android:background="#F6B7CC"
+        tools:ignore="ExtraText">
+
+        <ImageButton
+            android:id="@+id/btn1"
+            android:layout_width="30dp"
+            android:layout_height="30dp"
+            android:background="#F3AFC6"
+            android:src="@drawable/ic_baseline_chevron_left_24"
+            android:scaleType="centerInside"
+            />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="图书"
+            android:textColor="#000000"
+            android:textSize="25dp">
+
+        </TextView>
+
+    </LinearLayout>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <ImageView
+            android:id="@+id/book1"
+            android:layout_width="150dp"
+            android:layout_height="180dp"
+            android:src="@drawable/sh_book1"/>
+
+        <TextView
+            android:id="@+id/book1_text"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="10dp"
+            android:layout_toRightOf="@id/book1"
+            android:text="边城"
+            android:textColor="#000000" />
+
+        <TextView
+            android:id="@+id/book1_text2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/book1_text"
+            android:layout_marginLeft="10dp"
+            android:layout_toRightOf="@id/book1"
+            android:text="作者:沈从文"
+            android:textColor="#000000" />
+
+        <TextView
+            android:id="@+id/book1_text3"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/book1_text2"
+            android:layout_marginLeft="10dp"
+            android:layout_marginTop="10dp"
+            android:layout_toRightOf="@id/book1"
+            android:text="评分:9.4"
+            android:textColor="#000000" />
+
+        <TextView
+            android:id="@+id/book1_text4"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/book1_text3"
+            android:layout_marginLeft="15dp"
+            android:layout_marginTop="10dp"
+            android:layout_toRightOf="@id/book1"
+            android:text="出版社:北岳文艺出版社"
+            android:textColor="#000000" />
+
+        <TextView
+            android:id="@+id/book1_text5"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/book1_text4"
+            android:layout_marginLeft="15dp"
+            android:layout_marginTop="10dp"
+            android:layout_toRightOf="@id/book1"
+            android:text="出版年:2002-4"
+            android:textColor="#000000" />
+    </RelativeLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="用户评分:"
+            android:textColor="#000000"
+            android:textSize="30dp" />
+
+        <RatingBar
+            android:id="@+id/rb1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:numStars="5" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="内容简介"
+            android:textColor="#000000"
+            android:textSize="30dp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:scrollbars="vertical"
+            android:singleLine="false"
+            android:textColor="#000000"
+            android:text="《边城》是沈从文的代表作，这篇作品如沈从文的其他湘西作品，着眼于普通人、善良人的命运变迁，描摹了湘女翠翠阴差阳错的生活悲剧，诚如作者所言：“一切充满了善，然而到处是不凑巧。既然是不凑巧，因之素朴的善终难免产生悲剧。"
+            android:textSize="20dp" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="影评"
+            android:textColor="#000000"
+            android:textSize="25dp" />
+
+        <ScrollView
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:scrollbars="none"
+            android:fadingEdge="vertical"
+            >
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textColor="#000000"
+                android:text="《边城》里句句都是经典，沈从文只讲故事，不喜欢带入情绪，不像张爱玲，习惯发过多议论。沈是佛祖视角，高踞云端，不嗔不喜，张却像是主角们身旁无处不在的魂灵，同样全知全能，却会恨铁不成钢，一会心痛得掐自个儿的膀子，一会酸得忍不住从鼻孔里嗤一声。前者的故事高明，后者却字字刺心。--- miyakelee "
+                android:textSize="20dp" />
+
+        </ScrollView>
+
+    </LinearLayout>
+
+</LinearLayout>

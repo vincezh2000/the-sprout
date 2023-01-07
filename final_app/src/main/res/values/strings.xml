@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">final_app</string>
+    <string name="exit">再点击一次退出应用</string>
+    <string name="network_not_connected">网络连接失败，请检查网络设置</string>
+    <string name="get_data_fail">获取数据失败</string>
+    <string name="loading">加载中...</string>
+    <string name="wait">请稍后</string>
+    <string name="no_more_data">没有更多数据了</string>
+    <string name="no_data">暂无相关数据</string>
+    <string name="refresh_success">刷新成功</string>
+    <string name="index_first">热映</string>
+    <string name="index_second">排行</string>
+    <string name="index_third">分类</string>
+    <string name="daoyan">导演：</string>
+    <string name="yanyuan">演员：</string>
+    <string name="daoyan2">导演</string>
+    <string name="yanyuan2">演员</string>
+    <string name="xingshi">形式</string>
+    <string name="leixing">类型</string>
+    <string name="diqu">地区</string>
+    <string name="search">搜索</string>
+    <string name="et_hint">搜索电影</string>
+    <string name="input_tip">请输入搜索内容</string>
+    <string name="jianjie">简介</string>
+    <string name="yingren">影人</string>
+    <string name="db_pingfeng">豆瓣评分</string>
+    <string name="o_title">原名：</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_head">HeadActivity</string>
+
+</resources>

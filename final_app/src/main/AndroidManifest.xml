@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.final_app">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".HeadActivity"></activity>
+        <activity android:name=".ResultActivity" />
+        <activity android:name=".TopMovieDetail" />
+        <activity android:name=".MovieDetail" />
+        <activity android:name=".top_film" />
+        <activity android:name=".hot_film" />
+        <activity android:name=".ReadingActivity3" />
+        <activity android:name=".ReadingActivity2" />
+        <activity android:name=".ReadingActivity1" />
+        <activity android:name=".Book_detailsActivity" />
+        <activity android:name=".Book_detailsActivity2" />
+        <activity android:name=".Book_detailsActivity3" />
+        <activity android:name=".ReadingActivity" />
+        <activity android:name=".MusicActivity" />
+        <activity android:name=".FilmActivity" />
+        <activity android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".MusicDetailActivity" />
+
+        <service
+            android:name=".MusicService"
+            android:enabled="true"
+            android:exported="true" />
+    </application>
+
+</manifest>
