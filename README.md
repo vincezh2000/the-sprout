@@ -11,19 +11,19 @@ An Android application that enhances the college experience by providing a platf
 
 <p align="center">
 <font size=4>Literature</font><br/><br/>
-<img src="https://github.com/vincezh2000/vincezh/blob/main/public_assests/the_sprout_demo/demo5.png" width="450" />
-<img src="https://github.com/vincezh2000/vincezh/blob/main/public_assests/the_sprout_demo/demo8.png" width="450" />
+<img src="https://github.com/vincezh2000/vincezh/blob/main/public_assests/the_sprout_demo/demo5.jpg" width="450" />
+<img src="https://github.com/vincezh2000/vincezh/blob/main/public_assests/the_sprout_demo/demo8.jpg" width="450" />
 </p>
 
 <p align="center">
 <font size=4>Music</font><br/><br/>
-<img src="https://github.com/vincezh2000/vincezh/blob/main/public_assests/the_sprout_demo/demo6.png" width="450" />
-<img src="https://github.com/vincezh2000/vincezh/blob/main/public_assests/the_sprout_demo/demo7.png" width="450" />
+<img src="https://github.com/vincezh2000/vincezh/blob/main/public_assests/the_sprout_demo/demo6.jpg" width="450" />
+<img src="https://github.com/vincezh2000/vincezh/blob/main/public_assests/the_sprout_demo/demo7.jpg" width="450" />
 </p>
 
 <p align="center">
 <font size=4>Movie</font><br/><br/>
-<img src="https://github.com/vincezh2000/vincezh/blob/main/public_assests/navvy_man_demo/demo9.png" width="450" />
+<img src="https://github.com/vincezh2000/vincezh/blob/main/public_assests/navvy_man_demo/demo9.jpg" width="450" />
 </p>
 
 
@@ -45,10 +45,10 @@ An Android application that enhances the college experience by providing a platf
 - We have implemented user login and registration functions by connecting to the server.
 ### Showcase
 <p align="center">
-<img src="https://github.com/vincezh2000/vincezh/blob/main/public_assests/the_sprout_demo/demo1.png" width="600" />
-<img src="https://github.com/vincezh2000/vincezh/blob/main/public_assests/the_sprout_demo/demo2.png" width="600" />
-<img src="https://github.com/vincezh2000/vincezh/blob/main/public_assests/the_sprout_demo/demo3.png" width="600" />
-<img src="https://github.com/vincezh2000/vincezh/blob/main/public_assests/the_sprout_demo/demo4.png" width="600" />
+<img src="https://github.com/vincezh2000/vincezh/blob/main/public_assests/the_sprout_demo/demo1.jpg" width="600" />
+<img src="https://github.com/vincezh2000/vincezh/blob/main/public_assests/the_sprout_demo/demo2.jpg" width="600" />
+<img src="https://github.com/vincezh2000/vincezh/blob/main/public_assests/the_sprout_demo/demo3.jpg" width="600" />
+<img src="https://github.com/vincezh2000/vincezh/blob/main/public_assests/the_sprout_demo/demo4.jpg" width="600" />
 </p>
 
 <p align="right">(<a href="#top">back to top</a>)</p>
