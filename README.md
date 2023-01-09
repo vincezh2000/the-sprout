@@ -11,19 +11,19 @@ An Android application that enhances the college experience by providing a platf
 
 <p align="center">
 <font size=4>Literature</font><br/><br/>
-<img src="https://github.com/vincezh2000/vincezh/blob/main/public_assests/the_sprout_demo/demo5.jpg" width="450" />
-<img src="https://github.com/vincezh2000/vincezh/blob/main/public_assests/the_sprout_demo/demo8.jpg" width="450" />
+<img src="https://github.com/vincezh2000/vincezh/blob/main/public_assests/the_sprout_demo/demo5.jpg" width="300" />
+<img src="https://github.com/vincezh2000/vincezh/blob/main/public_assests/the_sprout_demo/demo8.jpg" width="300" />
 </p>
 
 <p align="center">
 <font size=4>Music</font><br/><br/>
 <img src="https://github.com/vincezh2000/vincezh/blob/main/public_assests/the_sprout_demo/demo6.jpg" width="450" />
-<img src="https://github.com/vincezh2000/vincezh/blob/main/public_assests/the_sprout_demo/demo7.jpg" width="450" />
+<img src="https://github.com/vincezh2000/vincezh/blob/main/public_assests/the_sprout_demo/demo7.jpg" width="300" />
 </p>
 
 <p align="center">
 <font size=4>Movie</font><br/><br/>
-<img src="https://github.com/vincezh2000/vincezh/blob/main/public_assests/the_sprout_demo/demo9.jpg" width="450" />
+<img src="https://github.com/vincezh2000/vincezh/blob/main/public_assests/the_sprout_demo/demo9.jpg" width="300" />
 </p>
 
 
