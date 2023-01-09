@@ -23,7 +23,7 @@ An Android application that enhances the college experience by providing a platf
 
 <p align="center">
 <font size=4>Movie</font><br/><br/>
-<img src="https://github.com/vincezh2000/vincezh/blob/main/public_assests/navvy_man_demo/demo9.jpg" width="450" />
+<img src="https://github.com/vincezh2000/vincezh/blob/main/public_assests/the_sprout_demo/demo9.jpg" width="450" />
 </p>
 
 
